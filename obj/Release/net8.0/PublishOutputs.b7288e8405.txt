@@ -1,0 +1,13 @@
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.exe
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\appsettings.Development.json
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\appsettings.json
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.dll
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.deps.json
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.pdb
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SENAI\Atividades\Atividade 2 - Projeto Web LH-Pets\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
